@@ -7,8 +7,9 @@ public class demo1 {
 		System.out.println("hi hello selenium");
 		int i=15;
 		System.out.println(i);
+		int j;
 		
-		for (int j = 0; j < 10; j++) {
+		for (j = 0; j < 10; j++) {
 			System.out.println(j);
 			
 			
@@ -16,6 +17,11 @@ public class demo1 {
 		}
 		
 		System.out.println("project completed");
+		
+		
+		System.out.println("how are you bro what happened");
+		
+		System.out.println(i+j);
 	}
 	
 	
