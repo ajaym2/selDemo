@@ -18,6 +18,9 @@ public class demo1 {
 			System.out.println(e.getMessage());
 		
 		}
+		finally{
+			System.out.println("Project completed");
+		}
 		
 	}
 	
