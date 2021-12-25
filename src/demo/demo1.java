@@ -9,7 +9,14 @@ public class demo1 {
 		}
 		catch(ArithmeticException e)
 		{
-			e.getMessage();
+			e.printStackTrace();
+			System.out.println("-------------------------");
+			
+			System.out.println(e.toString());
+			
+			System.out.println("---------------------");
+			System.out.println(e.getMessage());
+		
 		}
 		
 	}
