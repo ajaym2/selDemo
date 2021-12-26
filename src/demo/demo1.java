@@ -14,6 +14,12 @@ public class demo1 {
 			//System.out.println(e.toString());
 			System.out.println(e.getMessage());
 		}
+		
+		
+		for(int i=1;i<=10;i++)
+		{
+			System.out.print(i+" ");
+		}
 		}
 		
 		
